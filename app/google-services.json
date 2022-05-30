@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672248755376",
+    "project_id": "fakenewsapp-cf4f5",
+    "storage_bucket": "fakenewsapp-cf4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672248755376:android:4a52287a1fee7cb882f775",
+        "android_client_info": {
+          "package_name": "com.example.fakenewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672248755376-s3po4goidhri159f65mejf1bqrau6f0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzp_d_HK7FbWAiV6kgNqYDNfiutDvz0Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672248755376-s3po4goidhri159f65mejf1bqrau6f0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
